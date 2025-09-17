@@ -60,5 +60,4 @@ Here are some screenshots of the ChatApp in action:
 ## License
 This is free to use under the ISC License.
 
-## Made by
-[Your Name]
+ 
